@@ -1,0 +1,485 @@
+/* template-color */
+:root{
+  --theme-color: #E04237; 
+  --secondary-color: #E5AC1B;
+  --active-color: #D53F34;
+  --white-color: #ffffff; 
+  --black-color: #000000;
+}
+
+
+.handle-preloader{
+	background: var(--theme-color);
+}
+
+.preloader-close{
+	color: var(--theme-color);
+}
+
+.main-header .header-lower .logo-box:before{
+	background: var(--white-color);
+}
+
+.main-menu .navigation > li.current > a,
+.main-menu .navigation > li:hover > a{
+  color: var(--theme-color);
+}
+
+.main-menu .navigation > li > ul,
+.main-menu .navigation > li > .megamenu{
+	background: var(--theme-color);
+}
+
+.main-menu .navigation > li > ul > li > ul{
+	background: var(--theme-color);
+}
+
+.main-header .nav-right li.search-toggler:hover,
+.main-header .nav-right li.nav-btn:hover{
+  background: var(--theme-color);
+  border-color: var(--theme-color);
+}
+
+.theme-btn-one{
+	background: var(--theme-color);
+}
+
+.donate-content .donate-option .donate-list :checked+label{
+	background: var(--theme-color);
+}
+
+.donate-content .payment-option .payment-list :checked+label {
+  color: var(--theme-color);
+}
+
+.donate-content .form-inner .form-group input:focus{
+	border-color: var(--theme-color) !important;
+}
+
+.donate-content .form-inner .form-group .custom-control.material-checkbox .material-control-input:checked ~ .material-control-indicator{
+	border: 1px solid var(--theme-color);
+	background: var(--theme-color);
+}
+
+.xs-sidebar-group .content-inner .form-inner .form-group input:focus,
+.xs-sidebar-group .content-inner .form-inner .form-group textarea:focus{
+  border-color: var(--theme-color) !important;
+}
+
+.banner-carousel .content-box .special-text{
+	color: var(--secondary-color);
+}
+
+.banner-section .shape-1{
+	background: var(--theme-color);
+}
+
+.sec-title .sub-title{
+	color: var(--active-color);
+}
+
+.feature-block-one .inner-box h3 a:hover{
+  color: var(--active-color);
+}
+
+.progress-box .bar-inner{
+	background: var(--theme-color);
+}
+
+.cause-block-one .inner-box .image-box .image{
+	background: var(--theme-color);
+}
+
+.cause-block-one .inner-box .lower-content h3 a:hover{
+  color: var(--active-color);
+}
+
+.featured-causes .single-item .inner-box .theme-btn-one:hover{
+  color: var(--active-color) !important;
+}
+
+.nav-style-one .owl-nav button:hover{
+  background: var(--active-color);
+  border-color: var(--active-color);
+}
+
+.service-block-one .inner-box .icon-box{
+	color: var(--active-color);
+}
+
+.service-block-one .inner-box h3 a:hover{
+  color: var(--active-color);
+}
+
+.project-block-one .inner-box .image-box{
+	background: var(--theme-color);
+}
+
+.team-block-one .inner-box .image-box .image{
+	background: var(--theme-color);
+}
+
+.team-block-one .inner-box .lower-content .social-links li a:hover{
+  background: var(--theme-color);
+  border-color: var(--theme-color);
+}
+
+.team-block-one .inner-box .lower-content h3 a:hover{
+  color: var(--active-color);
+}
+
+.testimonial-section{
+	background: var(--theme-color);
+}
+
+.clients-section{
+	background: var(--secondary-color);
+}
+
+.news-block-one .inner-box .image-box{
+	background: var(--secondary-color);
+}
+
+.news-block-one .inner-box .lower-content h3 a:hover{
+  color: var(--active-color);
+}
+
+.theme-btn-two:hover{
+	background: var(--active-color);
+	border-color: var(--active-color);
+}
+
+.news-block-one .inner-box .lower-content .lower-box li a:hover{
+  color: var(--active-color);
+}
+
+.news-block-one .inner-box .lower-content .lower-box li i{
+	color: var(--active-color);
+}
+
+.footer-top .social-links li a:hover{
+  background: var(--active-color);
+}
+
+.main-footer .widget-section a:hover{
+  color: var(--active-color);
+}
+
+.main-footer .widget-section .contact-widget .info-list li i{
+	color: var(--active-color);
+}
+
+.footer-bottom a:hover{
+  color: var(--active-color);
+}
+
+.header-top .top-inner .top-left .social-links li a:hover{
+  color: var(--active-color);
+}
+
+.header-top .top-inner .info li a:hover{
+  color: var(--active-color);
+}
+
+.header-top .top-inner .info li i{
+	color: var(--active-color);
+}
+
+.header-style-two.main-header .nav-right li.search-toggler:hover{
+  color: var(--active-color);
+}
+
+.header-style-two.main-header .nav-right li.cart-box a:hover{
+  color: var(--active-color);
+}
+
+.banner-carousel .owl-nav button:hover{
+	background: var(--active-color);
+}
+
+.service-block-two .inner-box .icon-box{
+	color: var(--active-color);
+}
+
+.service-block-two .inner-box h3 a:hover{
+  color: var(--active-color);
+}
+
+.accordion-box .block.active-block{
+  background: var(--active-color);
+}
+
+.cta-section .inner-box h3{
+	color: var(--secondary-color);
+}
+
+.events-block-one .inner-box .content-box .date h2{
+	color: var(--active-color);
+}
+
+.events-block-one .inner-box .content-box h3 a:hover{
+  color: var(--active-color);
+}
+
+.events-block-one .inner-box .content-box .lower-box li i{
+	color: var(--active-color);
+}
+
+.event-section .nav-style-one .owl-nav button:hover{
+  background: var(--active-color);
+}
+
+.news-block-two .inner-box .image-box{
+	background: var(--active-color);
+}
+
+.news-block-two .inner-box .lower-content h3 a:hover{
+  color: var(--active-color);
+}
+
+.news-block-two .inner-box .lower-content .post-info li i{
+	color: var(--active-color);
+}
+
+.news-block-two .inner-box .lower-content .post-info li a:hover{
+  color: var(--active-color);
+}
+
+.sidebar-post .news-block-two .inner-box .lower-content .post-date{
+	background: var(--active-color);
+}
+
+.cta-style-two{
+	background: var(--active-color);
+}
+
+.cta-style-two .inner-box .theme-btn-one:hover{
+  color: var(--active-color) !important;
+}
+
+.header-style-three .header-lower .nav-right li.search-toggler:hover{
+  color: var(--active-color);
+}
+
+.banner-style-three .banner-carousel .theme-btn-one:hover{
+  color: var(--active-color) !important;
+}
+
+.list-style-one li:before{
+	color: var(--active-color);
+}
+
+.funfact-section.alternat-2 .funfact-block-one:first-child .inner-box .count-outer{
+	color: var(--active-color);
+}
+
+.cta-section .theme-btn-one:hover{
+  color: var(--active-color) !important;
+}
+
+.faq-style-two .accordion-box .block .acc-btn.active .icon-outer{
+	color: var(--active-color);
+}
+
+.page-title .content-box .bread-crumb li a:hover{
+  color: var(--active-color);
+}
+
+.team-block-two .inner-box .image-box{
+	background: var(--active-color);
+}
+
+.team-block-two .inner-box .lower-content h3 a:hover{
+  color: var(--active-color);
+}
+
+.team-block-two .inner-box .lower-content .social-links li a:hover{
+  background: var(--active-color);
+  border-color: var(--active-color);
+}
+
+.team-details-content .content-box .designation{
+	color: var(--active-color);
+}
+
+.team-details-content .content-box .info-list li a:hover{
+  color: var(--active-color);
+}
+
+.team-details-content .content-box .social-links li a:hover{
+  background: var(--active-color);
+  border-color: var(--active-color);
+}
+
+.event-details .sidebar-side .single-widget-box h3{
+	background: var(--active-color);
+}
+
+.event-details .sidebar-side .single-widget-box .info-list li a:hover{
+  color: var(--active-color);
+}
+
+.event-details .sidebar-side .single-widget-box .info-list li:last-child a{
+  color: var(--active-color);
+}
+
+.faq-form-section .form-inner .form-group input:focus,
+.faq-form-section .form-inner .form-group textarea:focus{
+  border-color: var(--active-color) !important;
+}
+
+.gallery-page-section .filters .filter-tabs li.active,
+.gallery-page-section .filters .filter-tabs li:hover{
+  color: var(--active-color);
+}
+
+.error-section .inner-box h1{
+	color: var(--active-color);
+}
+
+.cause-details-content .content-four .form-group input:focus,
+.cause-details-content .content-four .form-group textarea:focus{
+	border-color: var(--active-color) !important;
+}
+
+.default-sidebar .sidebar-widget .form-group input:focus{
+  border-color: var(--active-color) !important;
+}
+
+.default-sidebar .category-widget .category-list li a:hover{
+  color: var(--active-color);
+}
+
+.default-sidebar .category-widget .category-list li a:before{
+	color: var(--active-color);
+}
+
+.default-sidebar .donate-widget .inner-box .theme-btn-one:hover{
+  color: var(--active-color) !important;
+}
+
+.default-sidebar .tags-widget .tags-list li a:hover{
+  background: var(--active-color);
+}
+
+.shop-sidebar .search-widget form .form-group input:focus + button,
+.shop-sidebar .search-widget form .form-group button:hover{
+	color: var(--active-color);
+}
+
+.shop-sidebar .category-widget .category-list li a:hover{
+	color: var(--active-color);
+}
+
+.shop-sidebar .category-widget .category-list li a:hover:before{
+  color: var(--active-color);
+}
+
+.range-slider .ui-slider .ui-slider-range{
+	background: var(--active-color);
+}
+
+.range-slider .ui-state-default,
+.range-slider .ui-widget-content .ui-state-default{
+	background: var(--active-color);
+}
+
+.shop-block-one .inner-box .image-box .info li a:hover{
+  background: var(--active-color);
+}
+
+.shop-block-one .inner-box .lower-content h4 a:hover{
+  color: var(--active-color);
+}
+
+.pagination li a:hover,
+.pagination li a.current{
+	background: var(--active-color);
+	border-color: var(--active-color);
+}
+
+.shop-details-content .content-box .rating-box .review a:hover{
+  color: var(--active-color);
+}
+
+.shop-details-content .addto-cart-box .like-box a:hover{
+  background: var(--active-color);
+	border-color: var(--active-color);
+}
+
+.shop-details-content .other-option li a:hover{
+  color: var(--active-color);
+}
+
+.shop-details .product-discription .tab-btn-box .tab-btns li.active-btn{
+	color: var(--active-color);
+}
+
+.default-form input:focus,
+.default-form textarea:focus{
+	border-color: var(--active-color) !important;
+}
+
+.cart-section .cart-table tbody tr .prod-column .column-box .remove-btn:hover{
+  background: var(--active-color);
+  border-color: var(--active-color);
+}
+
+.cart-section .othre-content .coupon-box input:focus{
+	border-color: var(--active-color) !important;
+}
+
+.cart-section .cart-total .total-cart-box .list li:last-child span{
+  color: var(--active-color);
+}
+
+.checkout-section .upper-box .single-box a{
+  color: var(--active-color);
+}
+
+.checkout-section .billing-form .form-group input[type='text']:focus,
+.checkout-section .billing-form .form-group input[type='email']:focus{
+	border-color: var(--active-color) !important;
+}
+
+.checkout-section .additional-info .note-book textarea:focus{
+  border-color: var(--active-color) !important;
+}
+
+.checkout-section .order-info .order-list li.order-total span{
+	color: var(--active-color);
+}
+
+.checkout-section .payment-info .payment-inner .custom-controls-stacked .description a:hover{
+	color: var(--active-color);
+}
+
+.blog-sidebar .post-inner .post .post-thumb{
+	background: var(--active-color);
+}
+
+.blog-sidebar .post-widget .post h5 a:hover{
+  color: var(--active-color);
+}
+
+.page-title-two .post-info li a:hover{
+  color: var(--active-color);
+}
+
+.blog-details-content .post-tags .tags li a:hover{
+  color: var(--active-color);
+}
+
+.blog-details-content .author-box .designation{
+	color: var(--active-color);
+}
+
+.blog-details-content .comments-form-area form .form-group input:focus,
+.blog-details-content .comments-form-area form .form-group textarea:focus{
+  border-color: var(--active-color) !important;
+}
+
+.contact-section .form-inner form .form-group input:focus,
+.contact-section .form-inner form .form-group textarea:focus{
+	border-color: var(--active-color) !important;
+}
