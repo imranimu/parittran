@@ -1,8 +1,8 @@
 /* template-color */
 :root{
-  --theme-color: #E04237; 
+  --theme-color: rgb(100, 55, 224); 
   --secondary-color: #E5AC1B;
-  --active-color: #D53F34;
+  --active-color: #346cd5;
   --white-color: #ffffff; 
   --black-color: #222;
 }
