@@ -1,12 +1,11 @@
 /* template-color */
 :root{
   --theme-color: rgb(100, 55, 224); 
-  --secondary-color: #E5AC1B;
+  --secondary-color: #cd950a;
   --active-color: #346cd5;
   --white-color: #ffffff; 
   --black-color: #222;
 }
-
 
 .handle-preloader{
 	background: var(--theme-color);
