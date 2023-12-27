@@ -11,6 +11,7 @@
 
 ?>
 
+		<!-- Footer -->
 		<footer class="main-footer">
 			<div class="auto-container">                
 				<div class="widget-section">
