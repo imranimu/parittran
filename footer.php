@@ -19,7 +19,7 @@
 						<div class="col-lg-3 col-md-6 col-sm-12 footer-column">
 							<div class="about-widget footer-widget">
 								<div class="widget-title">
-									<h3>About</h3>
+									<h3>About Footer</h3>
 								</div>
 								<div class="text">									
 									<p>In 1993 a group of dalit student by born a small dalit Student's Association, The new name was called 'Parittran'. The meaning of this Bengali word is 'Liberation or Salvation.' Parittran is a promise.</p>                             
