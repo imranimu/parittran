@@ -33,7 +33,7 @@
         }
 
         .slider-content {
-            padding: 20px;
+            padding: 25px;
             background-color: rgba(255, 255, 255, 0.8);
             width: 50%;
             text-align: center;
