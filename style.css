@@ -55,7 +55,8 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
  }
 
  .wp-block-columns .wp-block-table{
-	margin-bottom: 0px;
+	margin-bottom: 20px;
+	padding: 10px;
  }
 
  p{
