@@ -22,6 +22,8 @@ get_header();
 						while ( have_posts() ) :
 							the_post();
 
+
+							// Page Content
 							get_template_part( 'template-parts/content', 'page' );
 
 							// If comments are open or we have at least one comment, load up the comment template.
