@@ -33,11 +33,11 @@
 								</div>
 								<div class="widget-content">
 									<ul class="links-list clearfix">
-										<li><a href="#">About Us</a></li>
-										<li><a href="#">Services</a></li>
-										<li><a href="#">Case</a></li>
-										<li><a href="#">Pricing</a></li>
-										<li><a href="#">Contact Us</a></li>
+										<li><a href="/about">About Us</a></li>
+										<li><a href="/services">Services</a></li>
+										<li><a href="/case">Case</a></li>
+										<li><a href="/pricing">Pricing</a></li>
+										<li><a href="/contact">Contact Us</a></li>
 									</ul>
 								</div>
 							</div>
