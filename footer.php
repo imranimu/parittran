@@ -52,7 +52,7 @@
 										<li><a href="/Privacy">Privacy Policy</a></li>
 										<li><a href="#">Terms & Condition</a></li>
 										<li><a href="#">Support</a></li>
-										<li><a href="#">Disclaimer</a></li>
+										<li><a href="/Disclaimer">Disclaimer</a></li>
 										<li><a href="/faqs">Faq</a></li>
 									</ul>
 								</div>
