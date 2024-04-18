@@ -34,7 +34,7 @@
 
         .slider-content {
             padding: 15px;
-			color: #000;
+			color: #333;
             background-color: rgba(255, 255, 255, 0.7);
             width: 50%;
             text-align: center;
