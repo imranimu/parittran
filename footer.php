@@ -75,9 +75,9 @@
 								<div class="footer-top mt-3">
 										
 									<ul class="social-links">
-										<li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-										<li><a href="#"><i class="fab fa-twitter"></i></a></li>
-										<li><a href="#"><i class="fab fa-instagram"></i></a></li>
+										<li><a href="/#"><i class="fab fa-facebook-f"></i></a></li>
+										<li><a href="/#"><i class="fab fa-twitter"></i></a></li>
+										<li><a href="/#"><i class="fab fa-instagram"></i></a></li>
 									</ul>
 								</div>
 							</div>
@@ -86,7 +86,7 @@
 				</div>
 				<div class="footer-bottom centred">
 					<div class="copyright">
-						<p>Copyright 2023 by <a href="#">PARITTRAN</a> All Right Reserved.</p>
+						<p>Copyright 2024 by <a href="#">PARITTRAN</a> All Right Reserved.</p>
 					</div>
 				</div>
 			</div>
