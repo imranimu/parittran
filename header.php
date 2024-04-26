@@ -37,8 +37,7 @@
 			color: #333;
             background-color: rgba(255, 255, 255, 0.7);
             width: 50%;
-            text-align: center;
-			margin-bottom: 10px;
+            text-align: center; 
         }
 
         .owl-nav.disabled{
@@ -103,7 +102,7 @@
 			<div class="outer-box">
 				<div class="logo-box">
 					<figure class="logo"><a href="<?php echo home_url();?>"><img src="<?php echo get_template_directory_uri() ?>/assets/images/logo.png" alt=""></a></figure>
-					<span style="position: absolute; bottom: -2px; font-size: 20px;">Since 1993</span>
+					<span style="position: absolute; bottom: -2px; font-size: 20px;">Since 1995</span>
 				</div>
 				<div class="menu-area clearfix"> 
 					<div class="mobile-nav-toggler">
