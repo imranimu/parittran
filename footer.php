@@ -68,7 +68,7 @@
 										<li><i class="icon-17"></i>Village: Lakshmanpur, P.O: Subhashini-9420, P.S.: Tala, District: Satkhira, Bangladesh.</li>                                        
 										<li><i class="icon-18"></i><a href="mailto:parittran@yahoo.com">parittran@yahoo.com</a></li>
 										<li><i class="icon-18" style="font-size: 14px; top: 8px;"></i><a href="mailto:parittran@gmail.com">parittran@gmail.com</a></li>                                        
-										<li><i class="icon-19"></i><a href="tel:+8801713425610">+8801713425610</a></li>
+										<li><i class="icon-19"></i><a href="tel:+8801713425610">+8801700000000</a></li>
 									</ul>
 								</div>
 
@@ -76,8 +76,8 @@
 										
 									<ul class="social-links">
 										<li><a href="/facebook"><i class="fab fa-facebook-f"></i></a></li>
-										<li><a href="/#"><i class="fab fa-twitter"></i></a></li>
-										<li><a href="/#"><i class="fab fa-instagram"></i></a></li>
+										<li><a href="/twitter"><i class="fab fa-twitter"></i></a></li>
+										<li><a href="/instagram"><i class="fab fa-instagram"></i></a></li>
 									</ul>
 								</div>
 							</div>
