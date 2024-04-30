@@ -20,11 +20,11 @@ get_header();
 							the_archive_title( '<h1 class="page-title">', '</h1>' );
 							the_archive_description( '<div class="archive-description">', '</div>' );
 							?>
-						</header><!-- .page-header -->
+						</header>
 
 						<div class="row">
 						<?php
-						/* Start the Loop */
+						
 						while ( have_posts() ) :
 							the_post();
 
