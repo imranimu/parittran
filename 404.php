@@ -42,10 +42,10 @@ get_header();
 										);
 										?>
 									</ul>
-								</div><!-- .widget -->
+								</div>
 
 								<?php
-								/* translators: %1$s: smiley */
+								
 								$_parittran_archive_content = '<h1>' . sprintf( esc_html__( 'Try looking in the monthly archives. %1$s', '_parittran' ), convert_smilies( ':)' ) ) . '</h3>';
 								the_widget( 'WP_Widget_Archives', 'dropdown=1', "after_title=</h2>$_parittran_archive_content" );
 
