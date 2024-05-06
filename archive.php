@@ -33,6 +33,7 @@ get_header();
 						endwhile;
 						?>
 
+						<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Corporis, consequuntur quos? Excepturi consequatur maiores at, impedit odio quo illo deserunt! Possimus consequuntur veritatis iure laudantium id quibusdam. Eaque, sequi iusto!</p>
 
 						</div>
 
