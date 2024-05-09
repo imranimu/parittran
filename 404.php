@@ -16,6 +16,7 @@ get_header();
 					<section class="error-404 not-found">
 						<header class="page-header">
 							<h1 class="page-title"><?php esc_html_e( 'Oops! That page can&rsquo;t be found.', '_parittran' ); ?></h1>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero, doloremque a ullam repellat modi molestias minima rem sed velit quo totam labore quia harum nihil aliquid ratione obcaecati? Ducimus, perspiciatis.</p>
 						</header><!-- .page-header -->
 
 						<div class="page-content">
