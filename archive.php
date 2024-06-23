@@ -9,7 +9,6 @@
 
 get_header();
 ?>
-
 	<div class="single_page">
 		<div class="container">
 			<div class="row">
@@ -23,16 +22,14 @@ get_header();
 						</header>
 
 						<div class="row">
-						<?php
-						
-						while ( have_posts() ) :
-							the_post();
+							<?php						
+								while ( have_posts() ) :
+									the_post();
 
-							get_template_part( 'template-parts/content', 'block' );																				
-							 
-						endwhile;
-						?>
-
+									get_template_part( 'template-parts/content', 'block' );																				
+									
+								endwhile;
+							?>
 						</div>
 
 						<?php

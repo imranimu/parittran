@@ -42,7 +42,7 @@
 
         .owl-nav.disabled{
             display: none;
-			bacground: black;
+			bacground: #333;
         }
 
     </style>
