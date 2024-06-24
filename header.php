@@ -42,7 +42,7 @@
 
         .owl-nav.disabled{
             display: none;
-			bacground: #333;
+			bacground: #000;
         }
 
     </style>
@@ -102,7 +102,7 @@
 			<div class="outer-box">
 				<div class="logo-box">
 					<figure class="logo"><a href="<?php echo home_url();?>"><img src="<?php echo get_template_directory_uri() ?>/assets/images/logo.png" alt=""></a></figure>
-					<span style="position: absolute; bottom: -2px; font-size: 20px;">Since 1995</span>
+					<span style="position: absolute; bottom: -2px; font-size: 20px;">Since 1880</span>
 				</div>
 				<div class="menu-area clearfix"> 
 					<div class="mobile-nav-toggler">
