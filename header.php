@@ -117,6 +117,8 @@
 									wp_nav_menu( array( 'theme_location' => 'primary','container' => 'ul', 'menu_class'=>'navigation clearfix') );
 								}
 							?> 
+
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Non numquam at omnis nobis odio minima neque, iure asperiores ducimus quos architecto quia quibusdam dicta possimus alias sapiente illo explicabo molestias.</p>
 						</div>
 					</nav> 
 				</div>
