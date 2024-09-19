@@ -51,7 +51,7 @@
 									<ul class="links-list clearfix">
 										<li><a href="/Privacy">Privacy Policy</a></li>
 										<li><a href="/termsandcondition">Terms & Condition</a></li>
-										<li><a href="/#">Support</a></li>
+										<li><a href="/support">Support</a></li>
 										<li><a href="/Disclaimer">Disclaimer</a></li>
 										<li><a href="/faqs">Faq</a></li>
 									</ul>
