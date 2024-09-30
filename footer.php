@@ -69,8 +69,7 @@
 										<li><i class="icon-18"></i><a href="mailto:parittran@yahoo.com">parittran@yahoo.com</a></li>
 										<li><i class="icon-18" style="font-size: 14px; top: 8px;"></i><a href="mailto:parittran@gmail.com">parittran@gmail.com</a></li>                                        
 										<li><i class="icon-19"></i><a href="tel:+8801713425610">+8801700000000</a></li>
-									</ul>
-									<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ut ad eveniet porro dolorum, alias consequuntur et beatae, dolores blanditiis deserunt molestiae voluptates, quae animi. Facilis, earum quidem! Saepe, velit deleniti!</p>
+									</ul>									
 								</div>
 
 								<div class="footer-top mt-3">
