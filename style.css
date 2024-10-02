@@ -59,5 +59,6 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
  }
 
  p{
-	color: #000;
+	color: #333;
+	margin: 0 5px;
  }
