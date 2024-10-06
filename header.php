@@ -131,12 +131,7 @@
 						<figure class="logo"><a href="#"><img src="<?php echo get_template_directory_uri() ?>/assets/images/logo.png" alt=""></a></figure>
 					</div>
 					<div class="menu-area clearfix">
-						<nav class="main-menu clearfix"></nav>
-						<!-- <ul class="nav-right">                        
-							<li class="btn-box">
-								<button class="donate-box-btn theme-btn-one"><span>Donate Now</span></button>
-							</li> 
-						</ul> -->
+						<nav class="main-menu clearfix"></nav> 
 					</div>
 				</div>
 			</div>
@@ -153,8 +148,7 @@
 		
 		<nav class="menu-box">
 			<div class="nav-logo"><a href="<?php echo home_url();?>"><img src="<?php echo get_template_directory_uri() ?>/assets/images/logo.png" alt="" title=""></a></div>
-			<div class="menu-outer GlobalMenu">
-				<!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
+			<div class="menu-outer GlobalMenu"> 
 			</div>
 			<div class="contact-info">
 				<h4>Contact Info</h4>
