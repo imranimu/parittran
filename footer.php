@@ -22,7 +22,7 @@
 									<h3>Wevsite Name</h3>
 								</div>
 								<div class="text">									
-									<p>In 1993 a group of dalit student by born a small dalit Student's Association, The new name was called 'Parittran'. The meaning of this Bengali word is 'Liberation or Salvation.' Parittran is a promise.</p>                             
+									<p>In 1990 a group of dalit student by born a small dalit Student's Association, The new name was called 'Parittran'. The meaning of this Bengali word is 'Liberation or Salvation.' Parittran is a promise.</p>                             
 								</div>
 							</div>
 						</div>
@@ -49,10 +49,10 @@
 								</div>
 								<div class="widget-content">
 									<ul class="links-list clearfix">
-										<li><a href="/Privacy">Privacy Policy</a></li>
+										<li><a href="/privacy">Privacy Policy</a></li>
 										<li><a href="/termsandcondition">Terms & Condition</a></li>
 										<li><a href="/support">Support</a></li>
-										<li><a href="/Disclaimer">Disclaimer</a></li>
+										<li><a href="/disclaimer">Disclaimer</a></li>
 										<li><a href="/faqs">Faq</a></li>
 									</ul>
 								</div>
