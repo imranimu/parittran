@@ -53,6 +53,8 @@ get_header();
 								the_widget( 'WP_Widget_Tag_Cloud' );
 								?>
 
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia consequatur adipisci voluptas, distinctio porro asperiores facere itaque. Consectetur architecto sunt eveniet eaque omnis nisi tempore. Neque molestiae voluptatem alias minus!</p>
+
 						</div><!-- .page-content -->
 					</section><!-- .error-404 -->
 				</div> 
