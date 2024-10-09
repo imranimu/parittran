@@ -42,7 +42,6 @@ get_header();
 
 						endif;
 					?>
-					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facilis eaque obcaecati repellat hic, laudantium, dolorum excepturi vel sed nihil assumenda architecto repellendus nulla numquam, quos eius nisi quam placeat iusto.</p>
 				</div>
 				<div class="col-md-3">
 					<?php get_sidebar(); ?> 
