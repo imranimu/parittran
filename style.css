@@ -64,7 +64,5 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 
  h1{
 	color: #333;
-	font-size: 24px;
-	line-height: 1.8;
-	margin-bottom: 10x;
+	font-size: 24px; 
  }
