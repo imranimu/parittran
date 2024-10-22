@@ -23,6 +23,7 @@
 								</div>
 								<div class="text">									
 									<p>In 1990 a group of dalit student by born a small dalit Student's Association, The new name was called 'Parittran'. The meaning of this Bengali word is 'Liberation or Salvation.' Parittran is a promise.</p>                             
+									<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illum, quae itaque cumque, fugit consequatur quis illo eius dignissimos rerum vitae perferendis! Quos quae odit voluptates. Quod deserunt possimus dolorum optio.</p>
 								</div>
 							</div>
 						</div>
