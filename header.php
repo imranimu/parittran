@@ -152,6 +152,7 @@
 			</div>
 			<div class="contact-info">
 				<h4>Contact Info</h4>
+				<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut aliquam, incidunt eius repellendus ducimus, dolorem quos error placeat eum iure commodi labore cum omnis corrupti ut beatae eveniet doloremque optio?</p>
 				<ul>
 					<li>Village: Lakshmanpur, P.O: Subhashini-9420, P.S.: Tala, District: Satkhira, Bangladesh.</li>
 					<li><a href="mailto:parittran@yahoo.com">parittran@yahoo.com</a></li>
