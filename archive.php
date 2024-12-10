@@ -19,6 +19,7 @@ get_header();
 							the_archive_title( '<h1 class="page-title">', '</h1>' );
 							the_archive_description( '<div class="archive-description">', '</div>' );
 							?>
+							<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Itaque, laboriosam ipsa, non deleniti vitae iusto debitis mollitia error vel natus id veritatis reiciendis voluptas cupiditate recusandae inventore necessitatibus consectetur dolorum!</p>
 						</header>
 
 						<div class="row">
