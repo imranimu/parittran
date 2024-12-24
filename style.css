@@ -51,7 +51,7 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 --------------------------------------------------------------*/
 
  .entry-content ul, .entry-content p, .entry-title, .wp-block-table{
-	margin-bottom: 35px;
+	margin-bottom: 20px;
  }
 
  .wp-block-columns .wp-block-table{
