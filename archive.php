@@ -45,8 +45,7 @@ get_header();
 				</div>
 				<div class="col-md-3">
 					<?php get_sidebar(); ?>  
-				</div>
-				<p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Modi, esse. Voluptas, a nulla labore architecto ratione iure ex nisi qui ea fuga alias iste maxime velit temporibus! Sit, eligendi repellendus?</p>
+				</div>				
 			</div>
 		</div>
 	</div>
