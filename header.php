@@ -35,14 +35,14 @@
         .slider-content {
             padding: 25px;
 			color: #333;
-            background-color: rgba(255, 255, 255, 0.6);
+            background-color: rgba(255, 255, 255, 0.7);
             width: 50%;
             text-align: center; 
         }
 
         .owl-nav.disabled{
             display: none;
-			bacground: #000;
+			bacground: #333;
         }
 
     </style>
