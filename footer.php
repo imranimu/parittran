@@ -87,7 +87,7 @@
 				</div>
 				<div class="footer-bottom centred">
 					<div class="copyright">
-						<p>Copyright 2024 by <a href="https://aimcodex.com">PARITTRAN</a> All Right Reserved.</p>
+						<p>Copyright 2025 by <a href="https://aimcodex.com">AIMCodex</a> All Right Reserved.</p>
 					</div>
 				</div>
 			</div>
