@@ -52,7 +52,7 @@ get_header();
 
 								the_widget( 'WP_Widget_Tag_Cloud' );
 								?> 
-								<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab, consectetur dignissimos, quia reiciendis voluptates natus quibusdam beatae tenetur quam aut pariatur? Quas dignissimos temporibus ab ducimus laboriosam suscipit? Odio, natus!</p>
+								987mnbvcx ewszxedx  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab, consectetur dignissimos, quia reiciendis voluptates natus quibusdam beatae tenetur quam aut pariatur? Quas dignissimos temporibus ab ducimus laboriosam suscipit? Odio, natus!</p>
 						</div><!-- .page-content -->
 					</section><!-- .error-404 -->
 				</div> 
