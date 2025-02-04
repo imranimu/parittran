@@ -51,8 +51,7 @@ get_header();
 								the_widget( 'WP_Widget_Archives', 'dropdown=1', "after_title=</h2>$_parittran_archive_content" );
 
 								the_widget( 'WP_Widget_Tag_Cloud' );
-								?> 
-								987mnbvcx ewszxedx  <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab, consectetur dignissimos, quia reiciendis voluptates natus quibusdam beatae tenetur quam aut pariatur? Quas dignissimos temporibus ab ducimus laboriosam suscipit? Odio, natus!</p>
+								?> 								
 						</div><!-- .page-content -->
 					</section><!-- .error-404 -->
 				</div> 
