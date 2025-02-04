@@ -66,7 +66,7 @@
 
 								<div class="widget-content"> 
 									<ul class="info-list clearfix">
-										<li><i class="icon-17"></i>Village: Lakshmanpur, P.O: Subhashini-9420, P.S.: Tala, District: Satkhira, Bangladesh.</li>                                        
+										<li><i class="icon-17"></i>Village: Lakshmanpur, P.O: Subhashini-9420, P.S.: Tala, District: Khulna, Bangladesh.</li>                                        
 										<li><i class="icon-18"></i><a href="mailto:parittran@yahoo.com">parittran@yahoo.com</a></li>
 										<li><i class="icon-18" style="font-size: 14px; top: 8px;"></i><a href="mailto:parittran@gmail.com">parittran@gmail.com</a></li>                                        
 										<li><i class="icon-19"></i><a href="tel:+8801711224433">+8801711 22 44 33</a></li>
