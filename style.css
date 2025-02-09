@@ -59,10 +59,10 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
  }
 
  p{
-	color: #333; 
+	color: #000000; 
  }
 
  h1{
-	color: #000;  
+	color: #333333;  
 	font-size: 20px; 
  }
