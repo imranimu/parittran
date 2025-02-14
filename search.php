@@ -42,6 +42,7 @@ get_header();
 
 						endif;
 					?>
+					<p>Hello world!</p>
 				</div>
 				<div class="col-md-3">
 					<?php get_sidebar(); ?> 
