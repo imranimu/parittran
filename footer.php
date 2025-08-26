@@ -21,7 +21,7 @@
 									<h3>About Us</h3>
 								</div>
 								<div class="text">									
-									<p>In 1980 a group of dalit student by born a small dalit Student's Association, The new name was called 'Parittran'. The meaning of this Bengali word is 'Liberation or Salvation.' Parittran is a promise.</p>									
+									<p>In 1990 a group of dalit student by born a small dalit Student's Association, The new name was called 'Parittran'. The meaning of this Bengali word is 'Liberation or Salvation.' Parittran is a promise.</p>									
 									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Fugit officia illo cupiditate qui quia quis quidem quam ipsam quos adipisci, aliquam necessitatibus deleniti ut iure voluptatem eos doloremque facere! Aut.</p>
 								</div>
 							</div>
@@ -88,7 +88,7 @@
 				</div>
 				<div class="footer-bottom centred">
 					<div class="copyright">
-						<p>Copyright 2025 by <a href="https://aimcodex.com">AIMCodex</a> All Right Reserved.</p>
+						<p>Copyright &copy; 2025 by <a href="https://aimcodex.com">AIMCodex</a> All Right Reserved.</p>
 					</div>
 				</div>
 			</div>

@@ -163,9 +163,9 @@
 				<ul class="clearfix">
 					<li><a href="#Twiter"><span class="fab fa-twitter"></span></a></li>
 					<li><a href="#Facebook"><span class="fab fa-facebook-square"></span></a></li>
-					<li><a href="#"><span class="fab fa-pinterest-p"></span></a></li>
-					<li><a href="#"><span class="fab fa-instagram"></span></a></li>
-					<li><a href="#"><span class="fab fa-youtube"></span></a></li>
+					<li><a href="#pinterest"><span class="fab fa-pinterest-p"></span></a></li>
+					<li><a href="#instagram"><span class="fab fa-instagram"></span></a></li>
+					<li><a href="#youtube"><span class="fab fa-youtube"></span></a></li>
 				</ul>
 			</div>
 		</nav>
