@@ -51,7 +51,8 @@ get_header();
 								the_widget( 'WP_Widget_Archives', 'dropdown=1', "after_title=</h2>$_parittran_archive_content" );
 
 								the_widget( 'WP_Widget_Tag_Cloud' );
-								?> 														
+								?> 									
+								<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sint dolores delectus nam beatae inventore, non molestias quod dolor nobis ipsam repellendus similique itaque reprehenderit tenetur quidem, repellat odit fugit doloribus?</p>					
 						</div><!-- .page-content -->
 					</section><!-- .error-404 -->
 				</div> 
