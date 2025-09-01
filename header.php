@@ -156,7 +156,7 @@
 					<li>Village: Lakshmanpur, P.O: Subhashini-9420, P.S.: Tala, District: Satkhira, Bangladesh.</li>
 					<li><a href="mailto:parittran@yahoo.com">parittran@yahoo.com</a></li>
 					<li><a href="mailto:parittran@gmail.com">parittran@gmail.com</a></li>
-					<li><a href="tel:+8801713425610">++880 01732 25 25 63</a></li>
+					<li><a href="tel:+8801713425610">++880 01732 11 00 00</a></li>
 				</ul>                   
 			</div>
 			<div class="social-links">
